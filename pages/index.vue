@@ -61,7 +61,7 @@ getBlockHeight()
             <img src="~/assets/nexa.svg" class="w-24 h-24" />
 
             <h1 class="text-5xl font-bold">
-                Welcome to Nexa!
+                Nexa Style
             </h1>
         </header>
 
